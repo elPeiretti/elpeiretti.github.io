@@ -5,3 +5,7 @@
         <h1> HOLA </h1>
     </body>
 </html>
+
+<?php
+    echo 'ola manola';
+?>
